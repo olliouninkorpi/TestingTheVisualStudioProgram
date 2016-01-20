@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tehtava1oo", "tehtava1oo\tehtava1oo.csproj", "{138ADE6C-5D5D-4458-AA96-60FA6BE5D4F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "therealteht1", "therealteht1\therealteht1.csproj", "{A6660D64-685A-4DF3-AB64-43EE605351F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tehtava2", "tehtava2\tehtava2.csproj", "{E422D537-8CB6-43D8-814B-AB9883026E89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{138ADE6C-5D5D-4458-AA96-60FA6BE5D4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{138ADE6C-5D5D-4458-AA96-60FA6BE5D4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{138ADE6C-5D5D-4458-AA96-60FA6BE5D4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6660D64-685A-4DF3-AB64-43EE605351F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6660D64-685A-4DF3-AB64-43EE605351F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6660D64-685A-4DF3-AB64-43EE605351F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6660D64-685A-4DF3-AB64-43EE605351F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E422D537-8CB6-43D8-814B-AB9883026E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E422D537-8CB6-43D8-814B-AB9883026E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E422D537-8CB6-43D8-814B-AB9883026E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E422D537-8CB6-43D8-814B-AB9883026E89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
